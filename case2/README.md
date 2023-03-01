@@ -3,7 +3,7 @@ Data and scripts for Case 2
 Steps to follow to reproduce PINN results
 
 - Run parser.py in data to generate dataset. The file TecPlot2.dat can be
-  downloaded from: <insert link once ready>.
+  downloaded from: https://zenodo.org/record/7688824#.Y_9tVNLMKV4
 - Download turbmat (https://github.com/idies/turbmat) and place it in the dns
   directory. Run fetchDNS.m in dns to retrieve original data from the Johns
   Hopkins Turbulence Database.
